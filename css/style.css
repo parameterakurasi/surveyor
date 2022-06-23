@@ -1065,7 +1065,7 @@ h5.subheading-black {
 ///////////////////////////////////////*/
 /*---------- Global Colors ----------*/
 .white {
-  color: #fff !important;
+  color: rgba(255, 255, 255, 0.874) !important;
 }
 
 .alien_blue {
@@ -1090,11 +1090,11 @@ h5.subheading-black {
 
 /*---------- Background Colors ----------*/
 .bg-black {
-  background-color: #000;
+  background-color: rgb(0, 0, 0);
 }
 
 .bg-dark {
-  background-color: #131212;
+  background-color: #212121;
 }
 
 .bg-primary {
